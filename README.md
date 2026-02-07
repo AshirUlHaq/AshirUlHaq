@@ -12,7 +12,7 @@ building reliable software and understanding how systems work.
 ---
 
 ## Tech I Work With
-**Languages:** Python, Java, C, C++  
+**Languages:** Python, Java, C++  
 **Tools:** Git, GitHub, VS Code, Jupyter  
 **Data & ML:** Pandas, Scikit-Learn, OpenCV  
 **Web:** HTML  
