@@ -27,7 +27,7 @@ building reliable software and understanding how systems work.
 ---
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashir-ul-haq-0a813b324)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ashir-ul-haq-0a813b324)
 
 ### Fun fact
 I rewrite things even when they already work.
