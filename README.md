@@ -27,7 +27,7 @@ building reliable software and understanding how systems work.
 ---
 
 ## Connect
-- GitHub: https://github.com/AshirUlHaq
+- LinkedIn: https://www.linkedin.com/in/ashir-ul-haq-0a813b324
 
 ### Fun fact
 I rewrite things even when they already work.
